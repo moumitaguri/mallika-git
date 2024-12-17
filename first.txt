@@ -1,0 +1,9 @@
+Git introduction
+
+- create a repo from github
+- creat a directory with the same name
+- add some file
+- git init - to link something from our local with git
+- git remote add <name> <url>
+  - git remote add origin <url>
+- git push
